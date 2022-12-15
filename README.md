@@ -1,6 +1,6 @@
-# ember-photo-gallery
+# ember-photoShop
 
-This application is a demonstration of how to build a photo gallery using CSS Grid and Ember Modifiers. 
+This application is a demonstration of how to build a photo shop using CSS Grid and Ember Modifiers. 
 It is powered by the [Unsplash API](https://unsplash.com/documentation).
 
 Design based on this [Twiddle](https://ember-twiddle.com/222e1d96ed2135aa8f101aae39a0f8a2?isSidebarOpen=false&openFiles=templates.components.masonry-demo%5C.hbs%2C)
